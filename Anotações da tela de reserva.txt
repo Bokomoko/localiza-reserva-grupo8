@@ -1,0 +1,38 @@
+atributos da lista de locais
+
+Tem que ter um container maior para suportar os alertas
+
+país (grupo)
+agencia
+	ícone 1, 
+	ícone2, 
+	cidade (destacado)
+	nome da agencia
+	endereço
+	telefone
+	horario de funcionamento
+	outro icone quando é hertz
+
+ficar ligada que ao selecionar a agencia é preciso carregar o horário de funcionamento
+e calcular qual a próxima data disponível.
+
+Se durante o preenchimento o tempo de retirada esgotar, é preciso exibir um alerta
+
+Autopreenchimento do local de devolução, com alerta para cobrança de taxa de retorno.
+
+
+icone do carro muda de acordo com a operação retirada e devolução
+     input (select)
+ 	label fazendo place holder
+      select da agencia embaixo com aba de detalhe ao lado (hover)
+
+Click da agencia seleciona e vai para o outro componente
+
+Calendário com click para hora
+
+Alertar para o caso de diária adicional por excesso da late-checkout (devolução depois da hora final do contrato, por exemplo, carro a devolver as 12h se for devolvido até as 16 só paga uma diária, Porém, se devolver depois das 17 outra diária deve ser cobrada
+
+
+
+input de código de promoção <validar de promoção>
+

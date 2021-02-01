@@ -1,0 +1,4 @@
+Vamos precisar listar as agências do exterior?
+O site mobile (não aplicattivo) será o mesmo da web?
+Porque ele tá mostando uma listagem dos carros esgotados?
+Como será a integração das telas do app com o header de navegação?
